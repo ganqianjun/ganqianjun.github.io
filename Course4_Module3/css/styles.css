@@ -1,0 +1,83 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+header .navbar {
+  background-color: #5b6663;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #e9ebe6;
+}
+
+.navbar-header button.navbar-toggle:hover {
+  background-color: #4d4d4d;
+}
+/*
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+*/
+.navbar-brand h1 { 
+  color: #e9ebe6;
+  font-size: 1.8em;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list a {
+  color: #e9ebe6;
+  text-align: center;
+}
+
+#nav-list a:hover {
+  color: #5b6663;
+  background: #e9ebe6;
+}
+
+#page_title {
+  color: #575654;
+  text-align: center;
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.menu_item {
+  width: 98%;
+  padding: 10px;
+  margin: 20px auto 20px auto;
+  border: 1px solid #575654;
+  color: white;
+}
+
+.menu_title {
+  text-align: center;
+  font-size: 1.7em;
+}
+
+.menu_content {
+  padding: 10px 20px 10px 20px;
+  word-wrap: break-word;
+  text-align: justify;
+}
+
+#menu_chicken {
+  background-color: #b2cfc8;
+}
+
+#menu_seafood {
+  background-color: #a6b3b0;
+}
+
+#menu_beef {
+  background-color: #bbbdb9;
+}
